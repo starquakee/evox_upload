@@ -3,3 +3,4 @@ from .std_mo_monitor import StdMOMonitor
 from .eval_monitor import EvalMonitor
 from .pop_monitor import PopMonitor
 from .evoxvis_monitor import EvoXVisMonitor
+from .usr_monitor2 import UsrMonitor2

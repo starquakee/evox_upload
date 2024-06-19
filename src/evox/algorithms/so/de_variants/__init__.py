@@ -4,3 +4,7 @@ from .jade import JaDE
 from .sade import SaDE
 from .shade import SHADE
 from .ode import ODE
+from .paravondesorttell import ParaVonDESortTell
+from .vondesorttell import VonDESortTell
+from .everyparadesorttell import EveryParaDESortTell
+from .everyparavondesorttell import EveryParaVonDESortTell
